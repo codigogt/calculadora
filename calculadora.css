@@ -6,7 +6,7 @@ body {
 }
 
 /* Aplicando estilos para la tabla, celdas y titulo de tabla */
-table, caption , th , td {
+table , caption , th , td {
 
     color: white;
     border: 5px solid white;
